@@ -7,7 +7,7 @@ pipeline {
         // Define the GitHub credentials ID
         GITHUB_CREDENTIALS = 'git_pass'
         // Define the GitHub repository URL
-        GITHUB_REPO_URL = 'GITHUB REPO URL'
+        GITHUB_REPO_URL = 'https://github.com/KaraaslanYusuf/node-user-management'
         // Define the Docker image name
         DOCKER_IMAGE_NAME = 'settrigh/devtest'
     }
